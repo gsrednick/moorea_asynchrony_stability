@@ -2,7 +2,6 @@
 # Written by G. Srednick - 02-19-2021
 
 # Working title: Asynchronous temporal variation in coral community structure among habitats in Mo'orea, French Polynesia 
-# test
 
 
 # Notes ####
