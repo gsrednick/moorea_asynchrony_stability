@@ -19,7 +19,6 @@ library("ggspatial")
 
 # data import
 sites<-read.csv("./Figures/Map/sites.csv")
-register_google(key = "AIzaSyAqUKwpoKehBV9QBxrGDSlViNYVGQo1WVE", write = TRUE)
 
 moorea <- c(left = -149.93, bottom = -17.6, right = -149.74, top = -17.46)
 
