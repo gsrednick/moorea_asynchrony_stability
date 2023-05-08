@@ -6,6 +6,12 @@ DOI: 10.1038/s41598-023-28482-7
 
 Link: https://www.nature.com/articles/s41598-023-28482-7
 
+
+## Data
+
+Data described and provided for analyses and plotting in *moorea_asynchrony_data.xlsx*.
+
+
 ## Scripts
 
 *author_script_actual.R* -- data curation, analyses, and figure generator
