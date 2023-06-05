@@ -9,6 +9,8 @@ Link: https://www.nature.com/articles/s41598-023-28482-7
 
 ## Data
 
+Data permanently archived at https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-mcr.5048.1.
+
 Data described and provided for analyses and plotting in *moorea_asynchrony_data.xlsx*.
 
 
